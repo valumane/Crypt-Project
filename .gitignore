@@ -1,0 +1,12 @@
+# Ignorer les fichiers exécutables sous Windows
+*.exe
+
+# Ignorer les fichiers objets (compilation)
+*.o
+
+# Ignorer les fichiers de débogage
+*.pdb
+
+# Ignorer les fichiers temporaires de l'éditeur
+*.log
+*.tmp
